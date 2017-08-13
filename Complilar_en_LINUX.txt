@@ -1,0 +1,36 @@
+---------------------------------------------------------------
+script(CMakeLists.txt) para cmake cortesia de @feclare
+---------------------------------------------------------------
+
+Es necesario tener instalado cmake versión 2.8.11:
+Abrir el terminal y escribir los siguientes comandos:
+
+Instalar cmake:
+	sudo apt-get install cmake
+
+Actualizar lista de paquetes: 
+	sudo apt-get update
+	sudo apt-get upgrade
+
+----------------------------------------------------------------
+
+Es necesario instalar SDL2, SDL2_image y SDL2_mixer:
+Abrir el terminal y escribir los siguientes comandos:
+
+sudo apt-get install libsdl2-dev libsdl2-2.0-0
+sudo apt-get install libsdl2-image-dev libsdl2-image-2.0-0
+sudo apt-get install libsdl2-mixer-dev libsdl2-mixer-2.0-0
+
+----------------------------------------------------------------
+Abrir el terminal y escribir los siguientes comandos:
+----------------------------------------------------------------
+
+cd build
+cmake ..
+make
+cp temptations ../bin
+cd ../bin
+rm *.dll
+./temptations
+
+---------------------------------------------------------------

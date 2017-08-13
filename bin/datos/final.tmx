@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-up" width="64" height="40" tilewidth="8" tileheight="8" backgroundcolor="#000000" nextobjectid="1">
+ <tileset firstgid="1" name="Baldosas" tilewidth="8" tileheight="8" tilecount="768">
+  <image source="tiles_nenefranz.png" width="256" height="192"/>
+  <tile id="209">
+   <properties>
+    <property name="TP" value="T"/>
+   </properties>
+  </tile>
+  <tile id="210">
+   <properties>
+    <property name="TP" value="T"/>
+   </properties>
+  </tile>
+  <tile id="211">
+   <properties>
+    <property name="TP" value="T"/>
+   </properties>
+  </tile>
+  <tile id="212">
+   <properties>
+    <property name="TP" value="T"/>
+   </properties>
+  </tile>
+  <tile id="226">
+   <properties>
+    <property name="TP" value="T"/>
+   </properties>
+  </tile>
+  <tile id="227">
+   <properties>
+    <property name="TP" value="T"/>
+   </properties>
+  </tile>
+  <tile id="228">
+   <properties>
+    <property name="TP" value="T"/>
+   </properties>
+  </tile>
+  <tile id="230">
+   <properties>
+    <property name="TP" value="T"/>
+   </properties>
+  </tile>
+  <tile id="231">
+   <properties>
+    <property name="TP" value="T"/>
+   </properties>
+  </tile>
+  <tile id="237">
+   <properties>
+    <property name="TP" value="T"/>
+   </properties>
+  </tile>
+  <tile id="238">
+   <properties>
+    <property name="TP" value="T"/>
+   </properties>
+  </tile>
+  <tile id="239">
+   <properties>
+    <property name="TP" value="T"/>
+   </properties>
+  </tile>
+  <tile id="243">
+   <properties>
+    <property name="TP" value="T"/>
+   </properties>
+  </tile>
+  <tile id="244">
+   <properties>
+    <property name="TP" value="T"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Capa1" width="64" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztVllvVVUU3scHTSBRH7S3Mmn66EhKclsSZbgdoJhSSAdInadoUX+Bljom+GJ8U+Ks4PAbZHDiVygFq6hPokHB1PHbdn3e7y73Obe3yL1F2cmXvffaa15r73NOhhC+B74DTrZgXclC6AF6gT5gY9ZcWhloszmiXdZtto9zyWbSSkJXOdUVz34Oc7TZMLeeNfwAnALuxdl9wP3AA8A9WXNp9Dc1x5i6bd1le9K475K8qDzPGD9zwfhPWQ6eAv1p4BngWeDJrLk0reEZ+HM61MaiPdAt+SjJmrwp+Riz5qKU1db/LezfBvYB+4E3s+bSyuZbnE+b/+xdxuDjZD9wXSqQjzFTPq4px/p/jPUnwKfAEeCjrLk0jTP6fibU5iTSbwNuB+4A7gTuAu7Oqnde85eS531gL0Sw/rQfEnKpcS1wnePlyLMbxK4Ovb/tUj/NScRjwOPAJLAbmAKesL7w+fPy2kPshW6pv449wj8B7Mpqz+K4HrhBbEzLudrdI3Mwu3HN/FF/6v5qTuL8MvAK8CrwGvA68IbpVd48eX1P+d1g/XWo3HM59b8RuMnWx4DjwBcin4pL7TJ/2jPkZf38Xf8AOAAcBA4Bh4EPzT/lTcnrW8DvRqr+9FvtckwL3+oYp+xn0mn6+160WY+wBzV/PKffvL8aR/T9M+Bz4GjUBRwDjktO8+T5H9Dl4tL7v6YOtMZrJH6ezzj+6Qbl9bvn4+A7/wvwK/Ab8DvwR8ztRdV+zZNn3/nYuyX+TsO0rD1WZ7I2/7mfkbXG2pnD4+X5RpZc/+r9ZR94OvvH9wH37HeNmzoOgO9gHb/XZvn+fwl8JTiRiDXisqz23MevfrKO/n+nnNV+77tdHnwf8N/QfwPKInMIfIdzauSRiv8bYBV68GrgGuDbRKwxf5cCX4e5cx//2qz6XdQ3Uv2dLegHrefsXDv8Nfu4WasT0i9jwM4sXSNfO62xxr8Oca8HNlj8PtbOBC2v/tqrZYmJaHPxkjeEWr4g/NQTfaUPlGX8S4GLgSM4uwTzEqMtEToRzzX+5Yh7BbDS4lc9S3N0U57nP2H9Y2je7GmXw4ejNnPdITTuldbheL1saq2y3HdY/fx4Pgc82wfsB94B3nVneXKNjMVu/z3gfeBF4KX/qP2iHO8V3r3uLE/ufLNflOMi+3lyC7HP0Qr7RTYWcnbB/gX7i93+zcAtdfS8kIMi++uA9eeB/Q2GheYxT26jYbHbz8utz/O/LbsY7FeAQaDf5jFg3OiPGM82YMDWm4BhOx8XHZE2ZPKDxhfldhnyxoD44P241c4GzqEvI8a33WxTX5TvM7k4Rm1N2ojRB92eeiJ9C7DZdCqPH/Fsh9jvNdpW0zFkejRmnjNm5i+YjxWRo96U/T7xN5jOiuxZH8puFt0VlyPV02u+k0YeH/cmkd1hMtQxbjxjzhfminJa837zifz9TmbI+TBhsW0L1b5jXulPjIX1HzbamMk9bHpHjIc5GnT8FbPlx9naZw4Wat+PBw2joZrjiu2HQ7VOelfoB/vW57jRQR92hmo/5PUEe52+NTomTHfF9nHuCdXe3iJnvCsh/PPebzWfmJdROY82HjLk+RD52a/qR4/R+L7pnfEy9I++17P7fx5XAFcC7cBVBVgGLAdWnKUer6vV9tuA0jzyFMdKYFXCxrIG9aiuVtuftD3fWL4j8b4+mpCblLndbCt9e6h+F0dD7Te54nROihz/E/imLtR+MNn4BvMt1O+dt787YaNokH/K2W1UD2VabX+qLlftID9zP+XoccRcay1jbVO1nDpH9vn/PB/7RW+KH3lvTL23qUhXq+3nvSmpN7PojZmvHq+r1fb/BPN9zfI=
+  </data>
+ </layer>
+</map>
