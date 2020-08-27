@@ -1,0 +1,4 @@
+Mete en assets los Assets del juego
+Mete en jni los códigos fuente
+
+Buena suerte...

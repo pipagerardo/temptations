@@ -1,0 +1,7 @@
+Mete aquí:
+----------
+ 
+SDL2        / codigo fuente
+SDL2_image  / codigo fuente
+SDL2_mixer  / codigo fuente
+temptations / codigo fuente
